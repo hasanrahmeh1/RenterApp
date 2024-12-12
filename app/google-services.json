@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "1080195606374",
+    "project_id": "renter-and-landlord-app",
+    "storage_bucket": "renter-and-landlord-app.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080195606374:android:2ec4f4bedd250b37fb4aa7",
+        "android_client_info": {
+          "package_name": "com.example.renterandlandlordapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMq4QeDXx4oiha5PzvL86RgB9tKQ8rfhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1080195606374:android:dfde4da0842768fcfb4aa7",
+        "android_client_info": {
+          "package_name": "com.example.renterapp"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCMq4QeDXx4oiha5PzvL86RgB9tKQ8rfhU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
